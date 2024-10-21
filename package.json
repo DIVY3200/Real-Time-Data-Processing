@@ -1,0 +1,20 @@
+{
+  "name": "real-time-data-processing",
+  "version": "1.0.0",
+  "description": "Develop a real-time data processing system to monitor weather conditions and provide",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyansh Kaushal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.13.0"
+  }
+}
