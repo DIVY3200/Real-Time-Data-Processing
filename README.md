@@ -98,6 +98,8 @@ Weather Monitoring with Rollups and Aggregates/
 
 run a nodemon src/app.js OR node src/app.js
 
+![Screenshot (252)](https://github.com/user-attachments/assets/a184f199-5860-4779-bd9f-33e70e4525f6)
+
 **NOTE:**
 
 1. When your temprature is more then 35°C, 95°F or 308K. It triggered a alert messege. 
